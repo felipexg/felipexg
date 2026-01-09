@@ -4,11 +4,12 @@
 
 <img src="https://github.com/felipexg/felipexg/blob/main/ChatGPT%20Image%208%20ene%202026,%2022_07_20.png?raw=true" width="1250px"  height="320px">
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   
-  <h3 align="center">Ingeniero de Sistemas </h3>
+  <h2 align="center">Systems Engineer </h2>
 
-## 🧠 Sobre mí
+## 🧠 About Me
 ## 🛠️ My Skills
 
 🛠️ Stack Tecnológico
