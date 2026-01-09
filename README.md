@@ -3,6 +3,8 @@
 
 
 <img src="https://github.com/felipexg/felipexg/blob/main/ChatGPT%20Image%208%20ene%202026,%2022_07_20.png?raw=true" width="1250px"  height="320px">
+
+
   
   <h3 align="center">Ingeniero de Sistemas </h3>
 
