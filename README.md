@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Felipe Xavier </h1>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="ChatGPT Image 8 ene 2026, 22_07_20" alt="GitHub Banner" width="100%" />
+
+  
   <h3 align="center">Ingeniero de Sistemas </h3>
 
 ## 🧠 Sobre mí
