@@ -10,6 +10,7 @@
   <h2 align="center">Systems Engineer </h2>
 
 ## 🧠 About Me
+<h3 align="center">¡Hola soy Felipe Granados, empecé mi carrera siendo técnico en análisis y desarrollo de sistemas por medio de php y bootstrap creando como proyecto de grado un sistema de gestión de Recursos Humanos el cual puedes ver en la parte de proyectos, luego pase por la tecnología y finalice con la Ingeniería de Sistemas; actualmente estudio inglés y me capacito en desarrollo con JavaScript y Angular, tengo conocimiento en herramientas de control de desarrollo como git, me gusta la música, la fotografía y pasear en motocicleta, En el codigo Qr puedes encontrar acceso a mi github.</h3>
 ## 🛠️ My Skills
 
 🛠️ Stack Tecnológico
