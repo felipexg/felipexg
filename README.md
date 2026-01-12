@@ -9,14 +9,11 @@
   
   <h2 align="center">Systems Engineer </h2>
 
-## 🧠 About Me
-<h3 align="center">¡Hola soy Felipe Granados, empecé mi carrera siendo técnico en análisis y desarrollo de sistemas por medio de php y bootstrap creando como proyecto de grado un sistema de gestión de Recursos Humanos el cual puedes ver en la parte de proyectos, luego pase por la tecnología y finalice con la Ingeniería de Sistemas; actualmente estudio inglés y me capacito en desarrollo con JavaScript y Angular, tengo conocimiento en herramientas de control de desarrollo como git, me gusta la música, la fotografía y pasear en motocicleta, En el codigo Qr puedes encontrar acceso a mi github.</h3>
-## 🛠️ My Skills
+<h3 align="center" style="font-weight: bold;"> 🧠 About Me </h3>
+<p align="justify">¡Hola soy Felipe Granados V. Empecé mi carrera siendo técnico en análisis y desarrollo de sistemas por medio de php y bootstrap creando como proyecto de grado un sistema de gestión de Recursos Humanos el cual puedes ver en la parte de proyectos, luego pase por el tecnologo realizando varios proyectos de aprendisaje backend y finalice con la Ingeniería de Sistemas; actualmente estudio inglés y me capacito en desarrollo con JavaScript y Angular, tengo conocimiento en herramientas de control de desarrollo como git, me gusta la música, la fotografía y pasear en motocicleta.</p>
 
-🛠️ Stack Tecnológico
-Frontend
+<h3 align="center" style="font-weight: bold;"> 🛠️ Stack Tecnológico </h3>
 
-HTML5 / CSS3 / Flexbox / Grid / JavaScript / TypeScript
 ## Backend
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"> </a>
@@ -36,8 +33,6 @@ HTML5 / CSS3 / Flexbox / Grid / JavaScript / TypeScript
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
-</br>
-
 ## 🧠 Base de Datos
 
 MySQL
@@ -45,13 +40,13 @@ MySQL
 PostgreSQL
 
 
-## 🧠 Herramientas
+## 🛠️ Herramientas
 
 GitHub
 
 Maven
 
-VS Code
+VS Code,
 Intellij idea
 
 
